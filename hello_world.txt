@@ -1,3 +1,4 @@
 Hello there 
-if joe == biden
+var name = ""
+if name == "joe biden"
  execute order 66
